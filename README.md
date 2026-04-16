@@ -44,21 +44,21 @@
 <tr border="none">
 <td width="50%" align="center">
   
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=dark&show_icons=true&count_private=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=carpiox&theme=dark&show_icons=true&count_private=true" />
   <br></br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dark&hide_border=false" /> 
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=carpiox&theme=dark&hide_border=false" /> 
 </td>
 
 <td width="50%" align="center">
 
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=TU_USUARIO&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=carpiox&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=10"/>
   
 </td>
 </tr>
 </table>
 
 <div align="center">
-  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=TU_USUARIO&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
+  <img align="center" width=84% src="https://github-profile-trophy.vercel.app/?username=carpiox&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" />
 </div>
 </p>
 <!--- stats (end) -->
@@ -93,7 +93,7 @@
 
 <div align="center">
   
-[![](https://visitcount.itsvg.in/api?id=TU_USUARIO&icon=3&color=6)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=carpiox&icon=3&color=6)](https://visitcount.itsvg.in)
   
 </div>
 
