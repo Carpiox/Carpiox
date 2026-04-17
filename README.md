@@ -72,7 +72,7 @@
 </div>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,html,css,js,php,mysql,wordpress,linux,nginx,github,vscode&perline=10" />
+  <img src="https://skillicons.dev/icons?i=git,github,html,css,js,ts,php,nodejs,mysql,nginx,apache,ubuntu,bash,vscode&perline=10" />
 </p>
 
 
