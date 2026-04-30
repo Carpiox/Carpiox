@@ -28,7 +28,6 @@
 - 🛠️ Full Stack: **React, TypeScript, PHP, MySQL, Node.js, Angular**
 - 🚀 Interesado en rendimiento web, SEO técnico y arquitectura de aplicaciones
 - 🌱 Profundizando en **JavaScript avanzado, APIs REST y backend escalable**
-- 🏛️ Preparando oposiciones de **TAI (Tecnologías de la Información del Estado)**
 - 💬 Pregúntame sobre **desarrollo web, SEO, proyectos reales o calculadoras**
 - 📫 Contacto: **carpiomaster@gmail.com**
 <!--Intro end-->
