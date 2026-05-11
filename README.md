@@ -47,6 +47,7 @@
 |----------|-------------|-------|
 | [🔗 micalculadora.es](https://micalculadora.es) | Plataforma de calculadoras laborales con +50k cálculos y SSR propio | React · TS · Tailwind · Vite |
 | [🔗 Calculadora EVAU](https://calculadoraevau.netlify.app/) | Cálculo de nota de acceso a la universidad por CCAA | HTML · CSS · JS |
+| [🔗 Herbolario](https://herbolario-bosque-encantado-cieza.netlify.app/) | Web corporativa para Pyme de herbolario | HTML · CSS · JS |
 | [📁 TFG Cuidadores](https://github.com/Carpiox/TFG) | Plataforma de gestión de pacientes y medicación con calendario | PHP · MySQL · Angular |
 | [📁 Sistema Peluquería](https://github.com/Carpiox/peluqueria) | Reservas online con panel de administración y autenticación | PHP · MySQL · JS |
 
